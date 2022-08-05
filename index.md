@@ -31,7 +31,7 @@
 </center>
 </html>
 
-## 主域名 
+## 网站地址 
 <br />
 <br />
 [luoriyun.com](https://luoriyun.com/) 
